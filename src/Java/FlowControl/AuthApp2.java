@@ -10,6 +10,7 @@ package Java.FlowControl;
  구분하는 이유
  원시 데이터 타입과 아닌것들을 Java는 차별한다.
 
+ 원시타입 비교시엔 == 사용가능
  */
 
 
