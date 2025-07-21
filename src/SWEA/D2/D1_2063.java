@@ -1,4 +1,4 @@
-package SWEA.D1;
+package SWEA.D2;
 
 /*
 중간값 찾기

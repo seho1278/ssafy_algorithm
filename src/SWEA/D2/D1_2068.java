@@ -1,4 +1,4 @@
-package SWEA.D1;
+package SWEA.D2;
 
 /*
 최대수 구하기
